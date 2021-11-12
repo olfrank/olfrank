@@ -3,10 +3,10 @@
 <br>
 BSc Geography graduate and aspiring blockchain developer. Blockchain can accelerate change in solving some of the larger systemic and societal issues the developing world faces today. My overarching goal is to be part of this process and contribute to meaningful change. 
 
-- 👷‍♂️  Continuously buildng DApps, improving clean code and best practices 
+- 👷‍♂️  Continuously buildng DApps, while implementing clean code and best practices 
 - 🎯  Focused on building secure and safe smart contracts in Solidity 
-- 👨‍🎨  I enjoy producing creative, user-focused frontends using HTML CSS and JS
-- 🤓  Eager to contribute to projects and ideas
+- 👨‍🎨  I enjoy producing creative, user-focused frontends using HTML CSS and JavaScript
+- 🤓  Eager to contribute to other projects and ideas
 - 📚  Enjoy consistently learning more at [Moralis Academy](https://academy.moralis.io/)
 - 🤩  GOAL = be employed as a blockchain developer in 2021
 
