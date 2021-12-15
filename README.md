@@ -34,6 +34,5 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 
 ![image](https://user-images.githubusercontent.com/79698289/146190468-0c1839c8-74aa-4dcd-868d-481b8d69bfcc.png)
 
-
 ## Contact Me:
 [LinkedIn](https://www.linkedin.com/in/ollie-francis-57256b1b1/)
