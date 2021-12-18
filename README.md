@@ -5,10 +5,9 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 
 - 👷‍♂️  Continuously buildng DApps, while implementing clean code and best practices 
 - 🎯  Focused on building secure and safe smart contracts in Solidity 
-- 👨‍🎨  I enjoy producing creative, user-focused frontends using HTML, CSS, JavaScript, and React
-- 🤓  Eager to contribute to other projects and ideas
+- 👨‍🎨  I enjoy producing creative, engaging and user-focused frontends using HTML, CSS, JavaScript, and React
 - 📚  Enjoy consistently learning more at [Moralis Academy](https://academy.moralis.io/) and [Udacity](https://www.udacity.com/)
-- 🤩  GOAL = be employed as a blockchain developer in 2021
+- 🤩  GOAL = be employed as a blockchain developer in 2022
 
 ## Languages & Tools
 <img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoWidth=30"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=30"/>
