@@ -14,12 +14,12 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 
 ## Languages & Tools
 <img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoWidth=30"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=30"/>
-<br> <img src="https://img.shields.io/badge/-HTML-CB3837?logo=HTML5&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoWidth=30"/> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-IPFS-65C2CB?logo=IPFS&logoColor=black&logoWidth=30" (https://ipfs.io/)/> 
+<br> <img src="https://img.shields.io/badge/-HTML-CB3837?logo=HTML5&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoWidth=30"/> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-IPFS-65C2CB?logo=IPFS&logoColor=black&logoWidth=30"/> 
 <br> <img src="https://img.shields.io/badge/-Hardhat-FECC00"/> <img src="https://img.shields.io/badge/-TruffleSuite-5e464d"/> <img src="https://img.shields.io/badge/-Ganache-e4a663"/> <img src="https://img.shields.io/badge/-RemixIDE-a2a3bd"/> 
 
 ## Blockchain Education
 ### Udacity
-- Blockchain Developer Nanodegree Program (November 2021 - present)
+- Blockchain Developer Nanodegree Program (November 2021 - February 2022)
 ### Moralis Blockchain Academy 
 - Cryptography and Privacy Coins (June 2021)
 -	Decentralised Finance 201 (May 2021)
@@ -38,4 +38,6 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 -	Blockchain and Bitcoin 101 (Jan 2021)
 
 ## Contact Me:
-[LinkedIn](https://www.linkedin.com/in/ollie-francis-57256b1b1/)
+[LinkedIn](https://www.linkedin.com/in/ollie-francis-57256b1b1/) 
+<br>
+email: olliefrancis97@hotmail.co.uk
