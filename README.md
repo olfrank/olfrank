@@ -8,7 +8,7 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 -   Focused on developing smart contracts for real world use cases in Solidity (Ethereum SC programming language).
 -   Test driven development of smart contracts (Truffle & Hardhat (Mocha & Chai)) and UI (debugging through web app interaction).
 -   I enjoy producing creative, engaging and user-focused frontends using HTML, CSS, JavaScript, and React. 
--   Keeping up to date with language/frameowrk updates and documentation. 
+-   Keeping up to date with language/framework updates and documentation. 
 -   Always learning more about blockchain and general software developing through [Moralis Academy](https://academy.moralis.io/) and [Udacity](https://www.udacity.com/)
 -   GOAL = be employed as a blockchain developer in 2022.
 
@@ -40,6 +40,6 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 ## Contact Me:
 [LinkedIn](https://www.linkedin.com/in/ollie-francis-57256b1b1/) 
 <br>
-Discord username: ol_frank#0128
+Discord username: <strong>ol_frank#0128</strong>
 <br>
 email: olliefrancis97@hotmail.co.uk
