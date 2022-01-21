@@ -14,7 +14,7 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 
 ## Languages & Tools
 <img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoWidth=30"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=30"/>
-<br> <img src="https://img.shields.io/badge/-HTML-CB3837?logo=HTML5&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoWidth=30"/> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-Hardhat-FECC00"/>
+<br> <img src="https://img.shields.io/badge/-HTML-CB3837?logo=HTML5&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoWidth=30"/> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-Hardhat-FECC00"/> <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoWidth=30"/>
 
 ## Blockchain Education
 ### Udacity
