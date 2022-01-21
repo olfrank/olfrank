@@ -40,4 +40,6 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 ## Contact Me:
 [LinkedIn](https://www.linkedin.com/in/ollie-francis-57256b1b1/) 
 <br>
+Discord username: ol_frank#0128
+<br>
 email: olliefrancis97@hotmail.co.uk
