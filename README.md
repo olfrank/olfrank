@@ -18,9 +18,9 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 <br> <img src="https://img.shields.io/badge/-Hardhat-FECC00"/> <img src="https://img.shields.io/badge/-TruffleSuite-5e464d"/> <img src="https://img.shields.io/badge/-Ganache-e4a663"/> <img src="https://img.shields.io/badge/-RemixIDE-a2a3bd"/> 
 
 ## Blockchain Education
-### Udacity
+### [Udacity](https://www.udacity.com/)
 - Blockchain Developer Nanodegree Program (November 2021 - February 2022)
-### Moralis Blockchain Academy 
+### [Moralis Blockchain Academy](https://academy.moralis.io/)
 - Cryptography and Privacy Coins (June 2021)
 -	Decentralised Finance 201 (May 2021)
 -	EOS Programming 201 (May 2021) 
