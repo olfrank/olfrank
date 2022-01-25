@@ -6,8 +6,8 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 ## What I am up to:
 -   Building decentralised blockchain applications (DApps) using modern frameworks and techniques. 
 -   Focused on developing smart contracts for real world use cases in Solidity (Ethereum SC programming language).
--   Test driven development of smart contracts (Truffle & Hardhat (Mocha & Chai)) and UI (debugging through web app interaction).
--   Using web3.js client API to connect blockchain applications to the UI.
+-   Test driven development of smart contracts (Truffle (JS) & Hardhat (JS & TS) (Mocha & Chai)) and UI (debugging through web app interaction).
+-   Using web3.js client API to connect blockchain applications to a UI.
 -   I enjoy producing creative, engaging and user-focused frontends for blockchain applications using JavaScript, React, HTML, and CSS. 
 -   Keeping up to date with language/framework updates and documentation. 
 -   Always learning more about blockchain and general software developing through [Moralis Academy](https://academy.moralis.io/) and [Udacity](https://www.udacity.com/)
