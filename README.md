@@ -1,5 +1,5 @@
 # About me, Ollie Francis
-[Portfolio Website](https://olfrank.github.io/my-website/) <br>
+=> [Portfolio Website](https://olfrank.github.io/my-website/) <br>
 <br>
 BSc Geography graduate and aspiring blockchain developer. Blockchain can accelerate change in solving some of the larger systemic and societal issues the developing world faces today. My overarching goal is to be part of this process and contribute to meaningful change. 
 
