@@ -2,7 +2,7 @@
 -> [Portfolio Website](https://olfrank.github.io/my-website/) <-
 <br>
 <br>
-I am a Blockchain Software Developer with experience in developing secure decentralised applications on Ethereum. I am passionate about what blockchain can do as a technology to empower users data, improve privacy and accelerate wider financial inclusion. <br> As a BSc Geography graduate i have a wider interest in the larger systemic and societal issues the developing world faces today and i am eager to apply my blockchain skillset to tackle social and economic inequality. 
+I am a Blockchain Software Developer with experience in developing secure decentralised applications on Ethereum. I am passionate about what blockchain can do as a technology to empower users data, improve privacy and accelerate wider financial inclusion. <br> <br> As a BSc Geography graduate i have a wider interest in the larger systemic and societal issues the developing world faces today and i am eager to apply my blockchain skillset to tackle social and economic inequality. 
 
 ## What I am up to:
 -   Building decentralised blockchain applications (DApps) using modern frameworks and techniques. 
