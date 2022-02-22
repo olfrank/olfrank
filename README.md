@@ -1,7 +1,7 @@
 # About me, Ollie Francis
 ## -> [Portfolio Website](https://olfrank.github.io/my-website/) <-
 
-I am a Blockchain Software Developer with experience in developing secure decentralised applications on Ethereum. I am passionate about what blockchain can do as a technology to empower users data, improve privacy and accelerate wider financial inclusion. <br> <br> As a BSc Geography graduate I have an overarching interest in the larger systemic and societal issues the developing world faces today and I am eager to apply my blockchain skillset to tackle social and economic inequality. 
+I am an entrepreneurially minded Blockchain Software Developer with a passion for what it can do as a technology to empower consumer data, improve privacy and accelerate wider financial inclusion. Over the past year, through disciplined self study, I have been polishing my skills by developing decentralised blockchain applications (DApps) on Ethereum, and now wish to apply my knowledge and skills in a professional environment.
 
 ## What I am up to:
 -   Building decentralised blockchain applications (DApps) using modern frameworks and techniques. 
