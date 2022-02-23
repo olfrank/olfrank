@@ -39,7 +39,7 @@ I am an entrepreneurially minded Blockchain Software Developer with a passion fo
 -	Blockchain and Bitcoin 101 (Jan 2021)
 
 ## Contact Me:
-[LinkedIn](https://www.linkedin.com/in/ollie-francis-57256b1b1/) 
+[LinkedIn](https://www.linkedin.com/in/ollie--francis/) 
 <br>
 Discord username: <strong>ol_frank#0128</strong>
 <br>
