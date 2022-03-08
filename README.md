@@ -10,7 +10,7 @@ I am an entrepreneurially minded Blockchain Software Developer with a passion fo
 -   Using web3.js and ethers.js API's to connect blockchain applications to a UI.
 -   I enjoy producing creative, engaging and user-focused frontends for blockchain applications using JavaScript, React, HTML5, and CSS3. 
 -   Keeping up to date with language/framework updates and documentation. 
--   Always learning more about blockchain and general software developing through [Moralis Academy](https://academy.moralis.io/) and [Udacity](https://www.udacity.com/)
+-   Always learning more about blockchain and general software developing through [Moralis Academy](https://academy.moralis.io/), [Udacity](https://www.udacity.com/), [Udemy](https://www.udemy.com/) etc.
 -   GOAL: be employed as a blockchain developer in 2022.
 
 ## Languages & Tools
