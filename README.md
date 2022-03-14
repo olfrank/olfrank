@@ -18,7 +18,11 @@ I am an entrepreneurially minded Blockchain Developer with a passion for what it
 <br> <img src="https://img.shields.io/badge/-HTML-CB3837?logo=HTML5&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoWidth=30"/> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&logoWidth=30"/> <img src="https://img.shields.io/badge/-IPFS-65C2CB?logo=IPFS&logoColor=black&logoWidth=30"/> 
 <br> <img src="https://img.shields.io/badge/-Hardhat-FECC00"/> <img src="https://img.shields.io/badge/-TruffleSuite-5e464d"/> <img src="https://img.shields.io/badge/-Ganache-e4a663"/> <img src="https://img.shields.io/badge/-RemixIDE-a2a3bd"/> 
 
-## Blockchain Education
+## Blockchain & Software Education
+### [Udemy](https://www.udemy.com/)
+- Algorithms and Data Structures Masterclass by Colt Steele (March 2022)
+### [DUKE UNIVERSITY](https://www.coursera.org/specializations/decentralized-finance-duke?)
+- Decentralised Finance: The Future of Finance by Cam Harvey (March 2022)
 ### [Udacity](https://www.udacity.com/)
 - Blockchain Developer Nanodegree Program (November 2021 - February 2022)
 ### [Moralis Blockchain Academy](https://academy.moralis.io/)
