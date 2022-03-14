@@ -21,11 +21,11 @@ I am an entrepreneurially minded Blockchain Developer with a passion for what it
 ## Blockchain & Software Education
 ### [Udemy](https://www.udemy.com/)
 - Algorithms and Data Structures Masterclass by Colt Steele (March 2022)
-### [DUKE UNIVERSITY](https://www.coursera.org/specializations/decentralized-finance-duke?)
+### [Duke University](https://www.coursera.org/specializations/decentralized-finance-duke?)
 - Decentralised Finance: The Future of Finance by Cam Harvey (March 2022)
 ### [Udacity](https://www.udacity.com/)
 - Blockchain Developer Nanodegree Program (November 2021 - February 2022)
-### [Moralis Blockchain Academy](https://academy.moralis.io/)
+### [Moralis](https://academy.moralis.io/)
 - Cryptography and Privacy Coins (June 2021)
 -	Decentralised Finance 201 (May 2021)
 -	EOS Programming 201 (May 2021) 
