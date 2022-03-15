@@ -22,7 +22,7 @@ I am an entrepreneurially minded Blockchain Developer with a passion for what it
 ### [Udemy](https://www.udemy.com/)
 - Algorithms and Data Structures Masterclass by Colt Steele (March 2022)
 ### [Duke University](https://www.coursera.org/specializations/decentralized-finance-duke?)
-- Decentralised Finance: The Future of Finance by Cam Harvey (March 2022)
+- Decentralised Finance: Primitives (March 2022)
 ### [Udacity](https://www.udacity.com/)
 - Blockchain Developer Nanodegree Program (November 2021 - February 2022)
 ### [Moralis](https://academy.moralis.io/)
