@@ -6,8 +6,8 @@ I am an entrepreneurially minded Blockchain Developer with a passion for what it
 ## What I am up to:
 -   Building decentralised applications (DApps) using modern frameworks and technologies. 
 -   Focused on developing smart contracts for real world use cases in Solidity (Ethereum).
--   Test-driven development (TDD) of smart contracts (Truffle (JS) & Hardhat (JS & TS)) and UI.
--   Using web3.js and ethers.js API's to connect blockchain applications to a UI.
+-   Test-driven development (TDD) of smart contracts (Truffle (JS) & Hardhat (JS & TS)).
+-   Connecting smart contracts to a UI using web3.js and ethers.js.
 -   I enjoy producing creative, engaging and user-focused frontends for blockchain applications using JavaScript, React, HTML5, and CSS3. 
 -   Keeping up to date with language/framework updates and documentation. 
 -   Always learning more about blockchain and general software developing through [Moralis Academy](https://academy.moralis.io/), [Udacity](https://www.udacity.com/), [Udemy](https://www.udemy.com/) etc.
