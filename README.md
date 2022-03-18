@@ -4,27 +4,18 @@
 I am an entrepreneurially minded Blockchain Developer with a passion for what it can do as a technology to empower consumer data, improve privacy and accelerate wider financial inclusion. Over the past year, through disciplined self study, I have been polishing my skills by developing full stack decentralised applications (DApps) on Ethereum, and now wish to apply my knowledge and skills in a professional environment.
 
 ## Skills/Knowledge of:
-- Common data structures and algorithms -> Udemy
-- DeFi primitives, infrastructure, and ecosystem -> Moralis & Duke University
-- Smart contract programming -> DApp projects/portfolio
-- Smart contract security (known attack vectors and vulnerabilities) -> Udacity & Moralis
-- Frontend & backend development -> DApp projects/portfolio
-- Blockchain fundamentals -> Udacity & Moralis
-- Cryptography fundamentals -> Udacity & Moralis
-- Zero knowledge proofs - zkSNARKS (ZoKrates) -> Udacity and zkProperties DApp
-- Oracles and Oracle security -> Udacity 
-- Blockchain architecture -> Udacity 
-- Unified Modelling Language (UML) (Activity, Sequence, State & Data modelling) -> Udacity & Authentic Wines DApp
-
-## What I am up to:
--   Building decentralised applications (DApps) using modern frameworks and technologies. 
--   Focused on developing smart contracts for real world use cases in Solidity (Ethereum).
--   Test-driven development (TDD) of smart contracts (Truffle (JS) & Hardhat (JS & TS)).
--   Connecting smart contracts to a UI using web3.js and ethers.js.
--   I enjoy producing creative, engaging and user-focused frontends for blockchain applications using JavaScript, React, HTML5, and CSS3. 
--   Keeping up to date with language/framework updates and documentation. 
--   Always learning more about blockchain and general software developing through [Moralis Academy](https://academy.moralis.io/), [Udacity](https://www.udacity.com/), [Udemy](https://www.udemy.com/) etc.
--   GOAL: be employed as a blockchain developer in 2022.
+- Smart contract programming --> DApp projects/portfolio
+- Smart contract security (known attack vectors and vulnerabilities) --> Udacity & Moralis
+- Common data structures and algorithms --> Udemy
+- DeFi primitives, infrastructure, and ecosystem --> Moralis & Duke University
+- Frontend & backend development --> DApp projects/portfolio
+- Blockchain fundamentals --> Udacity & Moralis
+- Cryptography fundamentals --> Udacity & Moralis
+- Zero knowledge proofs - zkSNARKS (ZoKrates) --> Udacity and zkProperties DApp
+- Oracles and Oracle security --> Udacity 
+- Blockchain architecture --> Udacity 
+- Unified Modelling Language (UML) (Activity, Sequence, State & Data modelling) --> Udacity & Authentic Wines DApp
+- DFS & HTTP
 
 ## My Stack
 #### LANGUAGES: 
