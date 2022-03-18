@@ -15,6 +15,7 @@ I am an entrepreneurially minded Blockchain Developer with a passion for what it
 
 ## Languages & Tools
 <img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoWidth=30"/> 
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&logoWidth=30"/> 
 <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=white&logoWidth=30"/> 
 <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&logoWidth=30"/> 
