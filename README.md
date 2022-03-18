@@ -16,17 +16,18 @@ I am an entrepreneurially minded Blockchain Developer with a passion for what it
 ## Languages & Tools
 <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"/> 
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&logoWidth=30"/> 
-<img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=white&logoWidth=30"/> 
-<img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&logoWidth=30"/> 
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=30"/>
-<br> <img src="https://img.shields.io/badge/-HTML-CB3837?logo=HTML5&logoColor=white&logoWidth=30"/> 
-<img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&logoWidth=30"/> 
-<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoWidth=30"/> 
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&logoWidth=30"/> 
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&logoWidth=30"/> 
-<img src="https://img.shields.io/badge/-IPFS-65C2CB?logo=IPFS&logoColor=black&logoWidth=30"/> 
-<br> <img src="https://img.shields.io/badge/-Hardhat-FECC00"/> 
+<img src="https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<br> 
+<img src="https://img.shields.io/badge/-HTML-CB3837?style=for-the-badge&logo=HTML5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoWidth=30"/> 
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=IPFS&logoColor=black"/> 
+<br> 
+<img src="https://img.shields.io/badge/-Hardhat-FECC00"/> 
 <img src="https://img.shields.io/badge/-TruffleSuite-5e464d"/> 
 <img src="https://img.shields.io/badge/-Ganache-e4a663"/> 
 <img src="https://img.shields.io/badge/-RemixIDE-a2a3bd"/> 
