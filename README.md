@@ -1,6 +1,6 @@
-<p align="center" font-size="2">
+<h1 align="center">
    About me, Ollie Francis 
-</p>
+</h1>
 
 ## -> [Portfolio Website](https://olfrank.github.io/myWebsiteV2/) <-
 
