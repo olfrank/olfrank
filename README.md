@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 2rem">
- # About me, Ollie Francis 
+<p align="center" font-size='2">
+   About me, Ollie Francis 
 </p>
 
 ## -> [Portfolio Website](https://olfrank.github.io/myWebsiteV2/) <-
