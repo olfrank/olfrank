@@ -2,7 +2,9 @@
    About me, Ollie Francis 
 </h1>
 
-## -> [Portfolio Website](https://olfrank.github.io/myWebsiteV2/) <-
+<h2 align="center">
+   -> [Portfolio Website](https://olfrank.github.io/myWebsiteV2/) <-
+</h2> 
 
 I am an entrepreneurially minded Blockchain Developer with a passion for what it can do as a technology to empower consumer data, improve privacy and accelerate wider financial inclusion. <br> <br> Over the past year, through disciplined self study, I have been polishing my skills by developing full stack decentralised applications (DApps) on Ethereum, and now wish to apply my knowledge and skills in a professional environment.
 
