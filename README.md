@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-size: 2rem">
  # About me, Ollie Francis 
 </p>
 
