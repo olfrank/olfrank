@@ -20,7 +20,7 @@ I am an entrepreneurially minded Blockchain Developer with a passion for what it
 - Zero knowledge proofs - zkSNARKS (ZoKrates)  -->  Udacity & zkProperties DApp
 - Oracles and Oracle security  -->  Udacity 
 - Blockchain architecture  -->  Udacity 
-- Unified Modelling Language (UML) (Activity, Sequence, State & Data modelling)  -->  Udacity & Authentic Wines DApp
+- Unified Modelling Language (UML) (Activity, Sequence, State & Data model)  -->  Udacity & Authentic Wines DApp
 
 ## My Stack
 #### LANGUAGES: 
