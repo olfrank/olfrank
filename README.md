@@ -6,7 +6,7 @@
 ##   --> [Portfolio Website](https://olfrank.github.io/myWebsiteV2/) <--
 
 
-I am an entrepreneurially minded Blockchain Developer with a passion for what it can do as a technology to empower consumer data, improve privacy and accelerate wider financial inclusion. <br> <br> Over the past year, through disciplined self study, I have been polishing my skills by developing full stack decentralised applications (DApps) on Ethereum, and now wish to apply my knowledge and skills in a professional environment.
+I am an entrepreneurially minded Blockchain Developer with a passion for what it can do as a technology to empower consumer data, improve privacy and accelerate wider financial inclusion.
 
 ## Skills/Knowledge of:
 - Smart contract programming  -->  DApp projects/portfolio
@@ -15,7 +15,6 @@ I am an entrepreneurially minded Blockchain Developer with a passion for what it
 - DeFi primitives, infrastructure, and ecosystem  -->  Moralis & Duke University
 - Ethereum Virtual Machine (EVM)  -->  Udacity
 - Frontend & backend development  -->  DApp projects/portfolio
-- Blockchain fundamentals  -->  Udacity & Moralis
 - Cryptography fundamentals  -->  Udacity & Moralis
 - Zero knowledge proofs - zkSNARKS (ZoKrates)  -->  Udacity & zkProperties DApp
 - Oracles and Oracle security  -->  Udacity 
