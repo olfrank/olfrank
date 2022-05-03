@@ -9,17 +9,14 @@
 I am an entrepreneurially minded Blockchain Developer with a passion for what it can do as a technology to empower consumer data, improve privacy and accelerate wider financial inclusion.
 
 ## Skills/Knowledge of:
-- Smart contract programming  -->  DApp projects/portfolio
-- Smart contract security (known attack vectors and vulnerabilities)  -->   Udacity & Moralis
-- Common data structures and algorithms  -->  Udemy
-- DeFi primitives, infrastructure, and ecosystem  -->  Moralis & Duke University
-- Ethereum Virtual Machine (EVM)  -->  Udacity
-- Frontend & backend development  -->  DApp projects/portfolio
-- Cryptography fundamentals  -->  Udacity & Moralis
-- Zero knowledge proofs - zkSNARKS (ZoKrates)  -->  Udacity & zkProperties DApp
-- Oracles and Oracle security  -->  Udacity 
-- Blockchain architecture  -->  Udacity 
-- Unified Modelling Language (UML) (Activity, Sequence, State & Data model)  -->  Udacity & Authentic Wines DApp
+- Smart contract programming & security (EVM chains)
+- DeFi primitives, infrastructure, and ecosystem
+- Cryptography fundamentals
+- Zero knowledge proofs - zkSNARKS
+- Oracles and Oracle security
+- Blockchain architecture
+- Unified Modelling Language (UML)
+- Data structures and algorithms
 
 ## My Stack
 #### LANGUAGES: 
@@ -47,7 +44,7 @@ I am an entrepreneurially minded Blockchain Developer with a passion for what it
 ### [Udacity](https://www.udacity.com/)
 - Blockchain Developer Nanodegree Program (November 2021 - February 2022)
 ### [Moralis](https://academy.moralis.io/)
-- Cryptography and Privacy Coins (June 2021)
+-  Cryptography and Privacy Coins (June 2021)
 -	Decentralised Finance 201 (May 2021)
 -	EOS Programming 201 (May 2021) 
 -	EOS Programming 101 (May 2021) 
