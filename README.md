@@ -1,11 +1,11 @@
 <h1 align="center">
-   About me, Ollie Francis 
+   Ollie Francis 
 </h1>
 
 
 ##   --> [Portfolio Website](https://olfrank.github.io/myWebsiteV2/) <--
 
-## Skills/Knowledge of:
+<!-- ## Skills/Knowledge of:
 - Smart contract programming & security (EVM chains)
 - DeFi primitives, infrastructure, and ecosystem
 - Cryptography fundamentals
@@ -13,9 +13,9 @@
 - Oracles and Oracle security
 - Blockchain architecture
 - Unified Modelling Language (UML)
-- Data structures and algorithms
+- Data structures and algorithms -->
 
-## My Stack
+## Stack
 #### LANGUAGES: 
 <!-- - <strong>Solidity, JavaScript, TypeScript, Node.js, HTML, CSS</strong> -->
 <img src = "https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"/> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  <img src = "https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  <img src = "https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>  <img src = "https://img.shields.io/badge/-HTML-CB3837?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
