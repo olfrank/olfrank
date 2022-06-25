@@ -16,9 +16,7 @@
 - Data structures and algorithms -->
 
 ## Stack
-#### LANGUAGES: 
-<!-- - <strong>Solidity, JavaScript, TypeScript, Node.js, HTML, CSS</strong> -->
-<img src = "https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"/> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  <img src = "https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  <img src = "https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>  <img src = "https://img.shields.io/badge/-HTML-CB3837?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+ LANGUAGES: <img src = "https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"/> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  <img src = "https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  <img src = "https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>  <img src = "https://img.shields.io/badge/-HTML-CB3837?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 #### LIBRARIES:
 <!-- - <strong>React, web3/ethers.js, jQuery, Express</strong> -->
 <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src = "https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white"/> <img src = "https://img.shields.io/badge/-Ethers.js-008BCB?style=for-the-badge"/>
